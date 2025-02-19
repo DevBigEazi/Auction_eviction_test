@@ -41,7 +41,8 @@ ReverseDutchAuctionSwap is a smart contract that facilitates reverse Dutch aucti
 - **Token Approvals Required:** Buyers and sellers must approve the contract for token transfers.
 - **Auction Finalization:** Ensures an auction cannot be finalized more than once.
 
+## Scripts
+<img width="960" alt="auction_script" src="https://github.com/user-attachments/assets/07d22888-797c-4d43-a932-625d33f2fdde" />
 
-## Here are the tests and scripting screenshots
-
-
+## Tests
+<img width="960" alt="auction_test" src="https://github.com/user-attachments/assets/7df9b2d0-0280-4b64-9034-14214c98f47f" />
